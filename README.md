@@ -10,7 +10,6 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 📫 How to reach me **pulkitagrawal777@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ShdTJCVUwTOGl04LUDRz9n05h2i3qJWt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
