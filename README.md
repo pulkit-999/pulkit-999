@@ -82,7 +82,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pulkit-999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pulkit-999&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
 </p>
 
