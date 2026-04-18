@@ -95,14 +95,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pulkit-999&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-</p>
-
----
-
 ### 💡 Random Dev Quote
 
 <p align="center">
